@@ -26,4 +26,6 @@ def getshort(fname):
 
 def get_response(msg):
     z=parsePrice(msg)
-    return z
+    if(z=="0"):
+        return "Not Listed on New york Stock Exchange"
+    return "$ " +z 
