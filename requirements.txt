@@ -10,7 +10,7 @@ Click==7.0
 cryptography==2.9
 defusedxml==0.6.0
 distlib==0.3.0
-Django==3.0.5
+Django==3.0.7
 django-ckeditor==5.9.0
 django-js-asset==1.2.2
 django-mail-queue==3.2.4
