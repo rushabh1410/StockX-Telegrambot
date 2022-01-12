@@ -31,7 +31,7 @@ MarkupSafe==1.1.1
 numpy==1.16.0
 oauthlib==3.1.0
 pandas==0.23.4
-pipenv==2018.11.26
+pipenv==2022.1.8
 protobuf==3.10.0
 pycparser==2.20
 PyJWT==1.7.1
